@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Beauty_Salon.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20201229150740__initial")]
+    [Migration("20210117182623__initial")]
     partial class _initial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -100,7 +100,7 @@ namespace Beauty_Salon.Migrations
                         {
                             Id = new Guid("63dc8fa6-07ae-4391-8916-e057f71239ce"),
                             CodeWord = "PageIndex",
-                            DateAdded = new DateTime(2020, 12, 29, 15, 7, 39, 262, DateTimeKind.Utc).AddTicks(9085),
+                            DateAdded = new DateTime(2021, 1, 17, 18, 26, 22, 658, DateTimeKind.Utc).AddTicks(6477),
                             Text = "Содержание заполняется администратором",
                             Title = "Главная"
                         },
@@ -108,7 +108,7 @@ namespace Beauty_Salon.Migrations
                         {
                             Id = new Guid("70bf165a-700a-4156-91c0-e83fce0a277f"),
                             CodeWord = "PageServices",
-                            DateAdded = new DateTime(2020, 12, 29, 15, 7, 39, 263, DateTimeKind.Utc).AddTicks(2756),
+                            DateAdded = new DateTime(2021, 1, 17, 18, 26, 22, 659, DateTimeKind.Utc).AddTicks(3690),
                             Text = "Содержание заполняется администратором",
                             Title = "Наши услуги"
                         },
@@ -116,7 +116,7 @@ namespace Beauty_Salon.Migrations
                         {
                             Id = new Guid("4aa76a4c-c59d-409a-84c1-06e6487a137a"),
                             CodeWord = "PageContacts",
-                            DateAdded = new DateTime(2020, 12, 29, 15, 7, 39, 263, DateTimeKind.Utc).AddTicks(2852),
+                            DateAdded = new DateTime(2021, 1, 17, 18, 26, 22, 659, DateTimeKind.Utc).AddTicks(3925),
                             Text = "Содержание заполняется администратором",
                             Title = "Контакты"
                         });
@@ -152,7 +152,7 @@ namespace Beauty_Salon.Migrations
                         new
                         {
                             Id = "44546e06-8719-4ad8-b88a-f271ae9d6eab",
-                            ConcurrencyStamp = "0b3e59b1-8b55-471a-af29-b520f507c385",
+                            ConcurrencyStamp = "eb4212a7-8c2d-4d9b-b25e-9406560aa66d",
                             Name = "admin",
                             NormalizedName = "ADMIN"
                         });
@@ -251,13 +251,13 @@ namespace Beauty_Salon.Migrations
                         {
                             Id = "3b62472e-4f66-49fa-a20f-e7685b9565d8",
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "0d75eeca-56c6-4fcf-a0e8-7dcbddd8427d",
-                            Email = "my@email.com",
+                            ConcurrencyStamp = "8e866b83-ec4a-4e5e-af17-6a6c404b4731",
+                            Email = "salonvika66@gmail.com",
                             EmailConfirmed = true,
                             LockoutEnabled = false,
-                            NormalizedEmail = "MY@EMAIL.COM",
+                            NormalizedEmail = "SALONVIKA66@GMAIL.COM",
                             NormalizedUserName = "ADMIN",
-                            PasswordHash = "AQAAAAEAACcQAAAAEEbg7WHB7iDR+ISDx2vA0a0v5zRPWejcSBMVt71/KDH4kS30QTDlyC0BEpqYQSfQEg==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEDUKp46ZYYFm9SXWBXvqb2mxldM6/nLr+oSp4I/gFLWOwEYnl+4oUdSwm6P7JFtnoA==",
                             PhoneNumberConfirmed = false,
                             SecurityStamp = "",
                             TwoFactorEnabled = false,

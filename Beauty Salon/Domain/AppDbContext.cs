@@ -32,7 +32,7 @@ namespace Beauty_Salon.Domain
                 Email = "salonvika66@gmail.com",
                 NormalizedEmail = "SALONVIKA66@GMAIL.COM",
                 EmailConfirmed = true,
-                PasswordHash = new PasswordHasher<IdentityUser>().HashPassword(null, "030zlata"),
+                PasswordHash = new PasswordHasher<IdentityUser>().HashPassword(null, "0302zlata"),
                 SecurityStamp = string.Empty
             });
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TheGamer\\source\\repos\\Beauty Salon\\Beauty Salon\\Beauty Salon.csproj": {}
+    "E:\\BeautySalonSite\\Beauty Salon\\Beauty Salon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TheGamer\\source\\repos\\Beauty Salon\\Beauty Salon\\Beauty Salon.csproj": {
+    "E:\\BeautySalonSite\\Beauty Salon\\Beauty Salon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TheGamer\\source\\repos\\Beauty Salon\\Beauty Salon\\Beauty Salon.csproj",
+        "projectUniqueName": "E:\\BeautySalonSite\\Beauty Salon\\Beauty Salon.csproj",
         "projectName": "Beauty Salon",
-        "projectPath": "C:\\Users\\TheGamer\\source\\repos\\Beauty Salon\\Beauty Salon\\Beauty Salon.csproj",
+        "projectPath": "E:\\BeautySalonSite\\Beauty Salon\\Beauty Salon.csproj",
         "packagesPath": "C:\\Users\\TheGamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TheGamer\\source\\repos\\Beauty Salon\\Beauty Salon\\obj\\",
+        "outputPath": "E:\\BeautySalonSite\\Beauty Salon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

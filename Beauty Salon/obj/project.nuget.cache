@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WLiXmeLMhj3HgDxXYj2S71HCi4y72g9GA4O2FuoWYvQIQGkrefkhH+3+XU0B4sq5Hj1Cipkhni6XnEPSFOfATA==",
+  "dgSpecHash": "iwozvud55o22wcqrdqUjkkdjTLBdKSq1akd3vlOi2P7npS+Eom3CvzM1pMGQUhah6hnWH2FauY68XBQuFQPrSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TheGamer\\source\\repos\\Beauty Salon\\Beauty Salon\\Beauty Salon.csproj",
+  "projectFilePath": "E:\\BeautySalonSite\\Beauty Salon\\Beauty Salon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TheGamer\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\TheGamer\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.8\\microsoft.aspnetcore.cryptography.internal.3.1.8.nupkg.sha512",
