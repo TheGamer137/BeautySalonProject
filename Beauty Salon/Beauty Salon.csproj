@@ -277,21 +277,24 @@
     <None Include="wwwroot\sass\components\_actions.scss" />
     <None Include="wwwroot\sass\components\_box.scss" />
     <None Include="wwwroot\sass\components\_button.scss" />
+    <None Include="wwwroot\sass\components\_contact.scss" />
     <None Include="wwwroot\sass\components\_features.scss" />
     <None Include="wwwroot\sass\components\_form.scss" />
     <None Include="wwwroot\sass\components\_icon.scss" />
     <None Include="wwwroot\sass\components\_icons.scss" />
     <None Include="wwwroot\sass\components\_image.scss" />
     <None Include="wwwroot\sass\components\_list.scss" />
+    <None Include="wwwroot\sass\components\_menu.scss" />
     <None Include="wwwroot\sass\components\_row.scss" />
     <None Include="wwwroot\sass\components\_section.scss" />
-    <None Include="wwwroot\sass\components\_spotlight.scss" />
-    <None Include="wwwroot\sass\components\_statistics.scss" />
+    <None Include="wwwroot\sass\components\_split.scss" />
+    <None Include="wwwroot\sass\components\_spotlights.scss" />
     <None Include="wwwroot\sass\components\_table.scss" />
+    <None Include="wwwroot\sass\components\_wrapper.scss" />
     <None Include="wwwroot\sass\layout\_footer.scss" />
     <None Include="wwwroot\sass\layout\_header.scss" />
-    <None Include="wwwroot\sass\layout\_main.scss" />
-    <None Include="wwwroot\sass\layout\_nav.scss" />
+    <None Include="wwwroot\sass\layout\_intro.scss" />
+    <None Include="wwwroot\sass\layout\_sidebar.scss" />
     <None Include="wwwroot\sass\layout\_wrapper.scss" />
     <None Include="wwwroot\sass\libs\_breakpoints.scss" />
     <None Include="wwwroot\sass\libs\_functions.scss" />
@@ -326,6 +329,6 @@
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
   </ItemGroup>
 
-  <ProjectExtensions><VisualStudio><UserProperties bundleconfig_1json__JsonSchema="" /></VisualStudio></ProjectExtensions>
+  <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 
 </Project>

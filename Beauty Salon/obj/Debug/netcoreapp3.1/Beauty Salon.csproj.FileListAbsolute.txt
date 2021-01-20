@@ -666,5 +666,7 @@ E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\
 E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
 E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
 E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
-E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ServicesPartial.cshtml.g.cs
 E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MastersPartial.cshtml.g.cs
+E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ServicesPartial.cshtml.g.cs
+E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ContactsPartial.cshtml.g.cs
+E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AboutPartial.cshtml.g.cs

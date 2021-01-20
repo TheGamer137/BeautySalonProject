@@ -12,5 +12,6 @@ namespace Beauty_Salon.Service
         public static string CompanyName { get; set; }
         public static string CompanyPhone { get; set; }
         public static string CompanyInstagram { get; set; }
+        public static string CompanyAddress { get; set; }
     }
 }
