@@ -2323,3 +2323,7 @@ table.alt tbody tr td {
   display: block;
   max-width: 100%;
   margin: 0 auto; }
+.separator {
+    margin-bottom: 90px;
+    clear: both;
+}

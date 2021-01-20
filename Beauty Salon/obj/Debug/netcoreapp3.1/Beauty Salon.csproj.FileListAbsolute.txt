@@ -664,3 +664,7 @@ E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewImports
 E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Areas\_ViewStart.cshtml.g.cs
 E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\TextFields\Edit.cshtml.g.cs
 E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ServiceItems\Edit.cshtml.g.cs
+E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Services\Index.cshtml.g.cs
+E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ServicesPartial.cshtml.g.cs
+E:\BeautySalonSite\Beauty Salon\obj\Debug\netcoreapp3.1\Razor\Views\Shared\MastersPartial.cshtml.g.cs

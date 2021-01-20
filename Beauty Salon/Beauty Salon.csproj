@@ -18,7 +18,6 @@
   <ItemGroup>
     <None Include="bundleconfig.json" />
     <None Include="compilerconfig.json" />
-    <None Include="wwwroot\images\logo.svg" />
     <None Include="wwwroot\js\breakpoints.min.js" />
     <None Include="wwwroot\js\browser.min.js" />
     <None Include="wwwroot\js\ckeditor\adapters\jquery.js" />
